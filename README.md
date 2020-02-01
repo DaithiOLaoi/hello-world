@@ -1,2 +1,2 @@
 # hello-world
-TEST Sandbox folder for quick ideas 
+Sandbox folder for quick ideas 
